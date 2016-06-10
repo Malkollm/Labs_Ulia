@@ -10,7 +10,7 @@ import lab4.Lab4;
  */
 public class Lab42{
 
-    //выводит массив 1
+    //выводит массив который создан в этом методе
     public static int[] Output_result(int[]nums){
         System.out.println("\n Массив выведенный через метод: ");
 
